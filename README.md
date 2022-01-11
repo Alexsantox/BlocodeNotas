@@ -1,12 +1,10 @@
-![Formulário-Nubank-Google-Chrome-2021-021-44-07-_online-video-cutter com_ (1)](https://user-images.githubusercontent.com/78287356/135541974-046993be-2f4a-4fc9-bd59-2ca3cb4029d6.gif)
-
-
+![Uploading todo-list-Google-Chrome-2022-01-11-08-49-30-_online-video-cutter.com_.gif…]()
 
 ### Bloco de Notas
 
 🟡 Uma página para adicionar suas tarefas diárias.
 
-🟡 Você pode adicionar tarefas e clicar na tarefa para a mesma ser concluída.
+🟡 Você pode adicionar tarefas e clicar na tarefa para a mesma ser concluída com um risco no mei da frase.
 
 🟡 Caso queira excluir a mesma. é só selecionar o "X" no lado direito da palavra.
 
